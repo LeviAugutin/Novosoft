@@ -32,7 +32,7 @@ ex:
 "role": "ROLE_USER"
 }
 )
-
+for logout clear the catch file from browser (swagger) 
 
 Get All Products
 URL: GET /novo/products/products
