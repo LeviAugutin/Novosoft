@@ -23,15 +23,6 @@ API Endpoints
 User API
 Register a New User
 URL: POST /novo/users/register
-(before accessing the swagger need to register users and here we use spring default login for our login system
-once we hit with register url like in postman 
-ex:
-{
-"username": "levi",
-"password": "123",
-"role": "ROLE_USER"
-}
-)
 
 
 Get All Products
